@@ -19,7 +19,7 @@ function reloading(value) {
             location.reload();
             break;
         case 2:
-            window.open("https://github.com/ELHart05", "_self");
+            window.open("https://aws.amazon.com/", "_self");
             break;
     }
 }

@@ -1,76 +1,76 @@
 [
     {
-        "question": "What software company is headquartered in Redmond, Washington?",
+        "question": "Which of the following is a cloud platform developed by Amazon?",
         "answers": [
-            "Microsoft",
-            "Apple",
-            "Google",
-            "Meta"
+            "Azur",
+            "AWS",
+            "Cloudera",
+            "No Answer from these"
         ],
-        "Answer": "Microsoft"
+        "Answer": "AWS"
     },
     {
-        "question": "What is the capital of Spain?",
+        "question": "Which of the following types of virtualization is also a feature of cloud computing?",
         "answers": [
-            "Berlin",
-            "Buenos Aires",
-            "Madrid",
-            "San Juan"
+            "Stockage",
+            "Application",
+            "CPU",
+            "All True"
         ],
-        "Answer": "Madrid"
+        "Answer": "All True"
     }, {
-        "question": "When did The Avengers come out?",
+        "question": "How do you define front-end?",
         "answers": [
-            "May 2, 2008",
-            "May 4, 2012",
-            "May 3, 2013",
-            "April 4, 2014"
+            "What we can intercat with",
+            "What we can see on browser",
+            "The Client Side Code",
+            "All True"
         ],
-        "Answer": "May 4, 2012"
+        "Answer": "All True"
     }, {
-        "question": "In what country is the Chernobyl nuclear plant located?",
+        "question": "In the machine learning slides, we've mentioned machines, textract, sagemaker, transcrib and?",
         "answers": [
-            "Iraq",
-            "USA",
-            "Russia",
-            "Ukraine"
+            "Transcribe",
+            "SiMoha",
+            "Editio",
+            "Visual Coding"
         ],
-        "Answer": "Ukraine"
+        "Answer": "Transcribe"
     }, {
-        "question": "What is the 4th letter of the Greek alphabet?",
+        "question": "Web hight traffic problem have been solved using?",
         "answers": [
-            "Alpha",
-            "Gama",
-            "Delta",
-            "Tita"
+            "Elastic Load Balancing",
+            "Server Runout",
+            "Diagram de Bode",
+            "Tita Load Balancing"
         ],
-        "Answer": "Delta"
+        "Answer": "Elastic Load Balancing"
     }, {
-        "question": "What car manufacturer had the highest revenue in 2020?",
+        "question": "Where we can classify AWS Amplify",
         "answers": [
-            "Audi",
-            "Peugeot",
-            "Suzuki",
-            "Volkswagen"
+            "Web Dev",
+            "ML",
+            "Data Engeneering",
+            "Deep Learning"
         ],
         "Answer": "Volkswagen"
     }, {
-        "question": "What is the max length of a TikTok video?",
+        "question": "When Amazon Lanched the e-reader?",
         "answers": [
-            "15 Seconds",
-            "30 Seconds",
-            "45 Seconds",
-            "60 Seconds"
+            "2005",
+            "2006",
+            "2007",
+            "2008"
         ],
-        "Answer": "60 Seconds"
+        "Answer": "2006"
     }, {
-        "question": "What artist has the smost streams on Spotify?",
+        "question": "What problem transcribe fiexd?",
         "answers": [
-            "Drake",
-            "Sting",
-            "Micheal Jackson",
-            "SiMoh NasrEddine"
+            "Speech-to-text",
+            "Voice Mail",
+            "Data Exploiting",
+            "Translate words"
         ],
-        "Answer": "Drake"
+        "Answer": "Speech-to-text"
     }
 ]
